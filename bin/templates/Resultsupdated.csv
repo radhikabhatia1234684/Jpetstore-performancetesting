@@ -1,0 +1,12 @@
+
+1728655542066,2362,Login,200,,Thread Group 1-1,text,true,,4692,836,1,1,https://petstore.octoperf.com/actions/Account.action,2360,0,2125
+1728655548898,254,Category,200,,Thread Group 1-1,text,true,,3928,606,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH,254,0,0
+1728655550980,227,Productid,200,,Thread Group 1-1,text,true,,4104,608,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FI-SW-01,226,0,0
+1728655553064,355,itemid,200,,Thread Group 1-1,text,true,,4664,608,1,1,https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-1,354,0,0
+1728655556281,189,neworder,200,,Thread Group 1-1,text,true,,4250,588,1,1,https://petstore.octoperf.com/actions/Order.action?newOrderForm=,189,0,0
+1728655560570,248,bill order,200,,Thread Group 1-1,text,true,,4479,1187,1,1,https://petstore.octoperf.com/actions/Order.action,246,0,0
+1728655562871,564,confirmed,500,,Thread Group 1-1,text,false,,15419,599,1,1,https://petstore.octoperf.com/actions/Order.action?newOrder=&confirmed=true,366,0,0
+1728655568447,611,logout,200,,Thread Group 1-1,text,true,,5278,1161,1,1,https://petstore.octoperf.com/actions/Catalog.action,314,0,0
+1728655568447,314,logout-0,302,,Thread Group 1-1,,true,,230,585,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,314,0,0
+1728655568764,294,logout-1,200,,Thread Group 1-1,text,true,,5048,576,1,1,https://petstore.octoperf.com/actions/Catalog.action,293,0,0
+1728655541942,4810,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-1,,false,,46814,6193,1,1,null,4309,22308,2125
